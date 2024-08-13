@@ -46,6 +46,7 @@ Slide.addImage({
   w: "100%",
   h: "100%",
 });
+
 Slide.addText(jsonData.title, {
   x: "6%",
   y: "26%",
